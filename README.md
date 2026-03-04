@@ -20,21 +20,20 @@
 
 - **Core**: Python, Django, FastAPI, GraphQL, Celery, PostgreSQL, SQLAlchemy
 - **Security & Integrations**: OAuth/PKCE, JWT, RSA/AES Encryption, XML Processing, UIDAI/Aadhaar, Digilocker, PAN (NSDL), SAP BAPI
-- **Other**: REST APIs, Pydantic, PyJWT, TensorFlow (early ML projects), HTML/CSS/JS, Pytest
-- **Domains**: Fintech compliance, API platforms, agritech/financial workflows, team leadership
+- **Other**: Google Gemini LLMs, AWS Bedrock, REST APIs, Pydantic, PyJWT, TensorFlow, HTML/CSS/JS, Pytest
+- **Domains**: Fintech compliance, API platforms, agritech/financial/healthcare workflows, team leadership
 
 ### 🌱 Currently Exploring
 
 - Integrating AI/ML into backend workflows (e.g., predictive analytics in fintech, intelligent automation)
 - Advanced FastAPI patterns, microservices, and production-grade security
-- Open-source contributions in Python web ecosystems
 
 ### 📈 Professional Highlights
 
-- Designed configurable API platforms with chained calls, auto-downloads, and custom encoding/decoding at OneFin
+- Designed configurable API platforms with chained calls, auto-downloads, and custom encoding/decoding
 - Led backend team (Django/GraphQL/Celery) — code reviews, task delegation, 20% efficiency gains via automation
 - Built full UIDAI/eKYC flows, Digilocker OAuth, PAN verification, and financial systems (cash management, dynamic pricing)
-- Early AI experience: Real-time Object Detection system using TensorFlow
+- AI experience: Architected AI-powered issue resolution system using AWS Bedrock and Google Gemini LLMs.
 
 <div align="center">
   <p>Thanks for visiting! Feel free to connect on <a href="https://www.linkedin.com/in/abdullah-ansari-704616155/">LinkedIn</a>. Let's build something impactful! 🚀</p>
