@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,graphql,postgres,celery,sqlite,redis,docker,git,aws,postman&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,gcp,graphql,redis,postgres,fastapi,git,aws,docker,postman,sqlite,firebase,aws,celery&perline=10" alt="Tech Stack Icons" />
 </p>
 
 - **Core**: Python, Django, FastAPI, GraphQL, Celery, PostgreSQL, SQLAlchemy
